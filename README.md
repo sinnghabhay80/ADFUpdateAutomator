@@ -40,6 +40,8 @@ This project automates the process of updating JAR files in Azure Data Factory (
 4. **Push Changes**: The modified pipeline JSON is committed and pushed to the new branch.
 5. **Create a Pull Request**: A PR is generated, linking the branch to the main repository for review.
 6. **Future Integration**: The process will be added to the CD pipeline for seamless updates across environments.
+   <img width="4610" height="4347" alt="ADFUpdateAutomator" src="https://github.com/user-attachments/assets/71dff0c9-c735-4b2f-aac1-2422beccbfd3" />
+
 
 
 ## Impact
